@@ -36,3 +36,12 @@ The program displays a welcoming message that includes all the information enter
 🔹 Step 7: Testing and Debugging
 
 The program is tested multiple times with different inputs to ensure correct functionality. Since only built-in Python functions are used, the program runs smoothly without requiring external libraries.
+
+🛠️ Technologies Used
+
+Programming Language: Python
+
+Development Tool: Visual Studio Code
+
+Concepts: Input/Output, Variables, String Formatting
+
